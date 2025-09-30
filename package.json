@@ -6,13 +6,13 @@
     "sanity",
     "sanity-plugin"
   ],
-  "homepage": "https://github.com/sanity-io/sanity-plugin-workspace-home#readme",
+  "homepage": "https://github.com/oleg1357/sanity-plugin-workspace-home-esm#readme",
   "bugs": {
-    "url": "https://github.com/sanity-io/sanity-plugin-workspace-home/issues"
+    "url": "https://github.com/oleg1357/sanity-plugin-workspace-home-esm/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:sanity-io/sanity-plugin-workspace-home.git"
+    "url": "git+ssh://git@github.com/oleg1357/sanity-plugin-workspace-home-esm.git"
   },
   "license": "MIT",
   "author": "Sanity <hello@sanity.io>",

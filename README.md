@@ -1,4 +1,6 @@
-# sanity-plugin-workspace-home
+# sanity-plugin-workspace-home-esm
+
+This is a fork of official Sanity plugin, with a resolve to the ESM modules in components 
 
 This plugin adds a "Home" Tool to your Studio with a listing of all available workspaces. Useful as the first page of your Studio to quickly navigate to the workspace of your choice.
 
