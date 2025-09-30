@@ -7,7 +7,7 @@ This plugin adds a "Home" Tool to your Studio with a listing of all available wo
 ## Installation
 
 ```sh
-npm install sanity-plugin-workspace-home
+npm install @oleg1357/sanity-plugin-workspace-home-esm
 ```
 
 ## Usage
