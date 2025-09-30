@@ -1,5 +1,5 @@
 {
-  "name": "sanity-plugin-workspace-home",
+  "name": "sanity-plugin-workspace-home-esm",
   "version": "1.1.2",
   "description": "A home screen for your multi-workspace Sanity Studio",
   "keywords": [
